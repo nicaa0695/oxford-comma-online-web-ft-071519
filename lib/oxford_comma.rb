@@ -1,3 +1,3 @@
 def oxford_comma(array)
-  oxford_comma.split(",")
+  oxford_comma.split("")
 end
