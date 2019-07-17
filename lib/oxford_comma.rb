@@ -1,3 +1,5 @@
 def oxford_comma(array)
-  oxford_comma.split(",")
+  if array.length < 2 
+    array.join
+    elsif arra.l
 end
